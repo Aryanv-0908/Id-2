@@ -1,0 +1,148 @@
+.third-child,
+.trophy-1-1 {
+  position: relative;
+  max-width: 100%;
+}
+.third-child {
+  width: 1440px;
+  height: 900px;
+  background-color: #000;
+  display: none;
+}
+.trophy-1-1 {
+  width: 350px;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.trophy-1-1-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.to-all-winners,
+.trophies {
+  font-family: Montserrat;
+  color: #efd815;
+}
+.to-all-winners {
+  font-weight: 500;
+  color: #fff;
+}
+.certificates {
+  font-family: Montserrat;
+  color: #efd815;
+}
+.to-all-the {
+  font-weight: 500;
+}
+.trophies-to-all-winners-and-ce {
+  margin: 0;
+}
+.apart-from-the {
+  font-weight: 500;
+}
+.top-10 {
+  font-family: Montserrat;
+  color: #efd815;
+}
+.teams-will-be1 {
+  font-weight: 500;
+}
+.apart-from-the-college-wide-re {
+  margin: 0;
+}
+.any-screening-round {
+  margin: 0;
+  font-weight: 500;
+}
+.refreshment-to-all,
+.trophies-to-all-container {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  z-index: 1;
+}
+.trophies-to-all-container {
+  height: 99px;
+}
+.refreshment-to-all {
+  width: 466px;
+}
+.refreshments {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 30px;
+  font-size: 26px;
+  color: #efd815;
+}
+.trophies-to-all-winners-and-ce-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 24px;
+  text-align: center;
+  font-size: 22px;
+  color: #fff;
+  font-family: Montserrat;
+}
+.our-sponsors {
+  width: 184px;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  z-index: 1;
+}
+.sponsor-logo-row,
+.third {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 9px;
+}
+.third {
+  width: 100%;
+  position: relative;
+  background-color: #000;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 100px 81px 166px;
+  box-sizing: border-box;
+  gap: 41.5px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 26px;
+  color: #fff;
+  font-family: Montserrat;
+}
+/*@media screen and (max-width: 750px) {
+  .third {
+    gap: 21px;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .trophies-to-all-container {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .our-sponsors,
+  .refreshment-to-all {
+    font-size: 21px;
+    line-height: 31px;
+  }
+}*/
